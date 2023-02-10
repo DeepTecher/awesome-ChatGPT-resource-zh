@@ -42,7 +42,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 
 ### 其他厂商推出 or 计划竞品
-- 【谷歌】 [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)  :broken_heart:
+**谷歌 | [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)**  :broken_heart:
 
 <details>
 <summary>更多介绍</summary>
@@ -52,7 +52,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details> 
 
-- 【百度】 [文心一言 | ERNIE Bot]() `暂未发布, 计划3月份released`
+**百度 | [文心一言 | ERNIE Bot]()** `暂未发布, 计划3月份released`
 <details>
 <summary>更多介绍</summary>
 
@@ -62,7 +62,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details> 
 
- - 【清华】 [Cpm-Bee](https://live.openbmb.org/models/bee) `开放网页测试，非InstructGPT框架，暂未支持多轮对话能力，计划3月份Released`
+**清华 | [Cpm-Bee](https://live.openbmb.org/models/bee)**  `开放网页测试，非InstructGPT框架，暂未支持多轮对话能力，计划3月份Released`
 <details>
 <summary>更多介绍</summary>
 
