@@ -2,7 +2,8 @@
 
 # 中文 ChatGPT 精选资源清单  
 
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)[![License](https://img.shields.io/github/license/DeepTecher/awesome-ChatGPT-resource-zh)](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh/blob/master/LICENSE)[![Stars](https://img.shields.io/github/stars/DeepTecher/awesome-ChatGPT-resource-zh)](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh)
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![License](https://img.shields.io/github/license/DeepTecher/awesome-ChatGPT-resource-zh)](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh/blob/master/LICENSE) [![Stars](https://img.shields.io/github/stars/DeepTecher/awesome-ChatGPT-resource-zh)](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh) [![Issues](https://img.shields.io/github/issues/DeepTecher/awesome-ChatGPT-resource-zh)](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh/issues)
+
 
 
 
@@ -92,7 +93,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 <br>
 - [科大讯飞被曝加紧开发中国版ChatGPT，具体发布时间已确定](https://mp.weixin.qq.com/s/o8D9GGlkmJ_RvaDL9filEQ)
 ---
-<details>
+</details>
 
 
 ### 视频讲解
@@ -159,4 +160,4 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 ### 参考
 
 * [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
-* [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT)
+* [DeepTecher/awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh)
