@@ -92,6 +92,8 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 <br>
 - [科大讯飞被曝加紧开发中国版ChatGPT，具体发布时间已确定](https://mp.weixin.qq.com/s/o8D9GGlkmJ_RvaDL9filEQ)
 ---
+<details>
+
 
 ### 视频讲解
 - 【李宏毅】[ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.bilibili.com/video/BV1U84y167i3?p=1&vd_source=71b548de6de953e10b96b6547ada83f2)   
@@ -101,10 +103,10 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 ### API 工具
 
-- [【非官方】【Python 】acheong08/ChatGPT ](https://github.com/acheong08/ChatGPT)
-- [【非官方】【Python 】rawandahmad698/PyChatGPT ](https://github.com/rawandahmad698/PyChatGPT)
+- [【非官方】【Python】 acheong08/ChatGPT ](https://github.com/acheong08/ChatGPT)
+- [【非官方】【Python】 rawandahmad698/PyChatGPT ](https://github.com/rawandahmad698/PyChatGPT)
 - [【非官方】【JS/TS】 transitive-bullshit/chatgpt-api ](https://github.com/transitive-bullshit/chatgpt-api)
-- [【非官方】【Dart】MisterJimson/chatgpt_api_dart](https://github.com/MisterJimson/chatgpt_api_dart)
+- [【非官方】【Dart】 MisterJimson/chatgpt_api_dart](https://github.com/MisterJimson/chatgpt_api_dart)
 
 
 ### Chrome 浏览器插件
@@ -116,8 +118,6 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 - [WebChatGPT - 加入web 搜索结果选项](https://github.com/qunash/chatgpt-advanced/)
 
 ### 其他平台 ChatGPT 使用
-
-
 - [【微信】 迅速接入 ChatGPT，让它成为你最好的助手！](https://github.com/fuergaosi233/wechat-chatgpt)
 - [【微信】 bot ](https://github.com/AutumnWhj/ChatGPT-wechat-bot)
 - [【Telegram】 bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
@@ -129,7 +129,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 - [ Google 文档](https://github.com/cesarhuret/docGPT)
 - [ Mac平台 菜单应用](https://github.com/vincelwt/chatgpt-mac)
 - [ 多平台(Windows, Mac, Linux)应用](https://github.com/lencx/ChatGPT)  :star::star::star::star::star:ChatGPT & Tauri
-- [【非官方】Windows, Mac, Linux 桌面app](https://github.com/sonnylazuardi/chatgpt-desktop)
+- [【非官方】 Windows, Mac, Linux 桌面app](https://github.com/sonnylazuardi/chatgpt-desktop)
 - [【Jetbrains IDEs】插件](https://github.com/LiLittleCat/intellij-chatgpt)
 - [【Slack Bot】](https://github.com/pedrorito/ChatGPTSlackBot)
 - [【Discord Bot】](https://github.com/m1guelpf/chatgpt-discord)
@@ -151,9 +151,6 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 ### Github Actions
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
-
-- https://github.com/Stratus-Security/FinGen)
-
 
 
 
