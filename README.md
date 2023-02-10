@@ -47,31 +47,51 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 <details>
 <summary>更多介绍</summary>
 
+<br>
 - [量子位 |谷歌版ChatGPT灾难级发布，市值一夜狂跌7000亿，熬夜网友：退钱！](https://mp.weixin.qq.com/s/ErBVGG-HcdV1i6mIVPlwyg)
 ---
 
 </details> 
 
-**百度 | [文心一言 | ERNIE Bot]()** `暂未发布, 计划3月份released`
+**百度 | [文心一言 | ERNIE Bot](https://baike.baidu.com/item/%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80/62642976)** `暂未发布, 计划3月份released`
 <details>
 <summary>更多介绍</summary>
 
-- 【官方】[ 官宣：文心一言](https://mp.weixin.qq.com/s/0-8X9FPouteKzNiK6DPaiA)
+<br>
+- 【官方】[官宣：文心一言](https://mp.weixin.qq.com/s/0-8X9FPouteKzNiK6DPaiA)
 - 【新闻时讯】[百度版ChatGPT文心一言3月完成内测对外开放..香港股价一度上涨13%，为三个月来最大涨幅](https://www.zaobao.com.sg/realtime/china/story20230207-1360557)
 ---
 
 </details> 
 
+**阿里 | [阿里版ChatGPT]** `阿里内测，暂未发布, 暂未公布具体何时released`
+<details>
+<summary>更多介绍</summary>
+
+<br>
+- [阿里版ChatGPT已进入测试！中文聊天截图曝光，达摩院出品](https://mp.weixin.qq.com/s/xQmX9EnrKLAUxsEoCZXJVg)
+---
+
+</details>
+
 **清华 | [Cpm-Bee](https://live.openbmb.org/models/bee)**  `开放网页测试，非InstructGPT框架，暂未支持多轮对话能力，计划3月份Released`
 <details>
 <summary>更多介绍</summary>
 
+<br>
 - 【官方】[登顶 ZeroCLUE！CPM-Bee 凭什么这样强？](https://mp.weixin.qq.com/s/5NEYk0xQu0CqTkqu5o6rhg)
 - 【官方】[小工具撬动大模型，『模力表格』惊喜问世](https://mp.weixin.qq.com/s/XoQN-QQhzWZAPdw7EKBuUg)
 ---
 
 </details> 
 
+**科大讯飞 | [XXX]** `紧急开发，暂未发布, 预计5月6号跟随落地场景released`
+<details>
+<summary>更多介绍</summary>
+
+<br>
+- [科大讯飞被曝加紧开发中国版ChatGPT，具体发布时间已确定](https://mp.weixin.qq.com/s/o8D9GGlkmJ_RvaDL9filEQ)
+---
 
 ### 视频讲解
 - 【李宏毅】[ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.bilibili.com/video/BV1U84y167i3?p=1&vd_source=71b548de6de953e10b96b6547ada83f2)   
