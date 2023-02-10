@@ -33,17 +33,13 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 - 【GPT-3论文】[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)  
 - 【InstructGPT论文】[Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)  
 - 【RHLF论文】[Augmenting Reinforcement Learning with Human Feedback](https://www.cs.utexas.edu/~ai-lab/pubs/ICML_IL11-knox.pdf)  
-= 【PPO算法论文】[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)  
+- 【PPO算法论文】[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)  
 
 ### 提示样例 （更好地让ChatGPT 回答出）
 
 - [英文版的ChatGPT调教指南](https://github.com/f/awesome-chatgpt-prompts)  :star::star::star::star::star:
 - [中文版的ChatGPT调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
-### 视频讲解
-- 【李宏毅】[ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.bilibili.com/video/BV1U84y167i3?p=1&vd_source=71b548de6de953e10b96b6547ada83f2)   
-- 【陈縕侬】[深度學習之應用 | ADL 17.3: OpenAI ChatGPT 驚驗眾人的對話互動式AI](https://www.bilibili.com/video/BV1U84y167i3?p=3&vd_source=71b548de6de953e10b96b6547ada83f2)  
-- 【李沐】[InstructGPT 论文精读【论文精读·48】](https://www.bilibili.com/video/BV1hd4y187CR/?spm_id_from=333.788&vd_source=71b548de6de953e10b96b6547ada83f2)
 
 ### 其他厂商推出 or 计划竞品
 - 【谷歌】 [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)  :broken_heart:
@@ -52,6 +48,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 <summary>更多介绍</summary>
 
 - [量子位 |谷歌版ChatGPT灾难级发布，市值一夜狂跌7000亿，熬夜网友：退钱！](https://mp.weixin.qq.com/s/ErBVGG-HcdV1i6mIVPlwyg)
+---
 
 </details> 
 
@@ -61,17 +58,25 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 - 【官方】[ 官宣：文心一言](https://mp.weixin.qq.com/s/0-8X9FPouteKzNiK6DPaiA)
 - 【新闻时讯】[百度版ChatGPT文心一言3月完成内测对外开放..香港股价一度上涨13%，为三个月来最大涨幅](https://www.zaobao.com.sg/realtime/china/story20230207-1360557)
+---
 
 </details> 
 
-- 【清华】 [Cpm-Bee](https://live.openbmb.org/models/bee) `开放网页测试，非InstructGPT框架，暂未支持多轮对话能力，计划3月份Released`
+ - 【清华】 [Cpm-Bee](https://live.openbmb.org/models/bee) `开放网页测试，非InstructGPT框架，暂未支持多轮对话能力，计划3月份Released`
 <details>
 <summary>更多介绍</summary>
 
 - 【官方】[登顶 ZeroCLUE！CPM-Bee 凭什么这样强？](https://mp.weixin.qq.com/s/5NEYk0xQu0CqTkqu5o6rhg)
 - 【官方】[小工具撬动大模型，『模力表格』惊喜问世](https://mp.weixin.qq.com/s/XoQN-QQhzWZAPdw7EKBuUg)
+---
 
 </details> 
+
+
+### 视频讲解
+- 【李宏毅】[ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.bilibili.com/video/BV1U84y167i3?p=1&vd_source=71b548de6de953e10b96b6547ada83f2)   
+- 【陈縕侬】[深度學習之應用 | ADL 17.3: OpenAI ChatGPT 驚驗眾人的對話互動式AI](https://www.bilibili.com/video/BV1U84y167i3?p=3&vd_source=71b548de6de953e10b96b6547ada83f2)  
+- 【李沐】[InstructGPT 论文精读【论文精读·48】](https://www.bilibili.com/video/BV1hd4y187CR/?spm_id_from=333.788&vd_source=71b548de6de953e10b96b6547ada83f2)
 
 
 ### API 工具
