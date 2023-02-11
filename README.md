@@ -17,20 +17,19 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 ### 目录
 
-- [GPT 通用资源](#GPT 通用资源)
-- [ChatGPT 社区 / 讨论](#ChatGPT 社区 / 讨论)
+- [GPT 通用资源](#gpt-通用资源)
+- [ChatGPT 社区 / 讨论](#chatgpt-社区--讨论)
 - [论文](#论文)
-- [提示样例 （更好地让ChatGPT 回答出）](#提示样例 （更好地让ChatGPT 回答出）)
-- [其他厂商推出 or 计划竞品](#其他厂商推出 or 计划竞品)
+- [提示样例 （更好地让ChatGPT 回答出）](#提示样例-更好地让chatgpt-回答出)
+- [其他厂商推出 or 计划竞品](#其他厂商推出-or-计划竞品)
 - [视频讲解](#视频讲解)
-- [API 工具](#API 工具)
-- [Chrome 浏览器插件](#Chrome 浏览器插件)
-- [其他平台 ChatGPT 使用](#其他平台 ChatGPT 使用)
+- [API 工具](#api-工具)
+- [Chrome 浏览器插件](#chrome-浏览器插件)
+- [其他平台 ChatGPT 使用](#其他平台-chatgpt-使用)
 - [社交工具](#社交工具)
 - [应用](#应用)
 - [命令行工具](#命令行工具)
-- [Github Actions](#Github Actions)
-
+- [Github Actions](#github-actions)
 
 
 ### GPT 通用资源
