@@ -9,7 +9,7 @@
 
 ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，能够生成类人文本。 通过向它提供提示，它可以生成继续对话或扩展给定提示的响应。 我们都期待着它能够带来更多跨时代的改变。
 
-> 精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 和 GPT-3资源清单 [ChatGPT](https://chat.openai.com),  修改自 [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt):fire:。此外将跟随最新资源以及添加中文相关的内容补充。
+> 精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 和 GPT-3资源清单,  修改自 [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt):fire:。此外将跟随最新资源以及添加中文相关的内容补充。
 
 ![ChatGPT](./imgs/chatgpt-header.png)
 
