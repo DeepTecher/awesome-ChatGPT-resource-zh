@@ -49,16 +49,34 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 <summary>更多介绍</summary>
 
 <br>
-- [量子位 |谷歌版ChatGPT灾难级发布，市值一夜狂跌7000亿，熬夜网友：退钱！](https://mp.weixin.qq.com/s/ErBVGG-HcdV1i6mIVPlwyg)
+
+- [量子位 | 谷歌版ChatGPT灾难级发布，市值一夜狂跌7000亿，熬夜网友：退钱！](https://mp.weixin.qq.com/s/ErBVGG-HcdV1i6mIVPlwyg)
 ---
 
 </details> 
+
+**微软 | [BingGPT or EdgeGPT(暂且这么称呼把)]** `ChatGPT 和 GPT-3.5 提供支持`
+
+<details>
+<summary>更多介绍</summary>
+
+<br>
+
+- 【官方】[申请候补使用(PS:需通过使用微软 Edge 浏览器打开)](https://www.bing.com/new)
+- 【官方】[微软旗下所有产品将全线整合ChatGPT...](https://mp.weixin.qq.com/s/w1r7zvtu19XCdzx75dWl4Q)
+- [ API 调用方法](https://github.com/acheong08/EdgeGPT)
+- [新智元 | 颠覆历史！「ChatGPT搜索引擎」发布，微软市值一夜飙涨5450亿](https://mp.weixin.qq.com/s/03EDC_Vl8SAM52oJvkX5SA)
+---
+
+</details> 
+
 
 **百度 | [文心一言 | ERNIE Bot](https://baike.baidu.com/item/%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80/62642976)** `暂未发布, 计划3月份released`
 <details>
 <summary>更多介绍</summary>
 
 <br>
+
 - 【官方】[官宣：文心一言](https://mp.weixin.qq.com/s/0-8X9FPouteKzNiK6DPaiA)
 - 【新闻时讯】[百度版ChatGPT文心一言3月完成内测对外开放..香港股价一度上涨13%，为三个月来最大涨幅](https://www.zaobao.com.sg/realtime/china/story20230207-1360557)
 ---
@@ -70,16 +88,19 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 <summary>更多介绍</summary>
 
 <br>
+
 - [阿里版ChatGPT已进入测试！中文聊天截图曝光，达摩院出品](https://mp.weixin.qq.com/s/xQmX9EnrKLAUxsEoCZXJVg)
 ---
 
 </details>
 
-**清华 | [Cpm-Bee](https://live.openbmb.org/models/bee)**  `开放网页测试，非InstructGPT框架，暂未支持多轮对话能力，计划3月份Released`
+**清华 | [Cpm-Bee](https://live.openbmb.org/models/bee)**  `开放网页测试，非InstructGPT框架，暂未支持多轮对话能力，计划3月份released`
+
 <details>
 <summary>更多介绍</summary>
 
 <br>
+
 - 【官方】[登顶 ZeroCLUE！CPM-Bee 凭什么这样强？](https://mp.weixin.qq.com/s/5NEYk0xQu0CqTkqu5o6rhg)
 - 【官方】[小工具撬动大模型，『模力表格』惊喜问世](https://mp.weixin.qq.com/s/XoQN-QQhzWZAPdw7EKBuUg)
 ---
@@ -91,8 +112,10 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 <summary>更多介绍</summary>
 
 <br>
+
 - [科大讯飞被曝加紧开发中国版ChatGPT，具体发布时间已确定](https://mp.weixin.qq.com/s/o8D9GGlkmJ_RvaDL9filEQ)
 ---
+
 </details>
 
 
@@ -159,5 +182,5 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 ### 参考
 
-* [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
-* [DeepTecher/awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh)
+* [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) 
+* [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) 
