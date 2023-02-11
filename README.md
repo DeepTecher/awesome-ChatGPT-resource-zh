@@ -94,6 +94,18 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details>
 
+**腾讯 | [XXXX]** `类chatGPT相关方向已有布局，研究有序推进` 
+<details>
+<summary>更多介绍</summary>
+
+<br>
+
+- [腾讯：在ChatGPT和AIGC相关方向上有布局，专项研究有序推进](https://k.sina.com.cn/article_5044281310_12ca99fde02001ybg9.html#/)
+---
+
+</details>
+
+
 **清华 | [Cpm-Bee](https://live.openbmb.org/models/bee)**  `开放网页测试，非InstructGPT框架，暂未支持多轮对话能力，计划3月份released`
 
 <details>
