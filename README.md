@@ -81,6 +81,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 - 【官方】[微软旗下所有产品将全线整合ChatGPT...](https://mp.weixin.qq.com/s/w1r7zvtu19XCdzx75dWl4Q)
 - [ API 调用方法](https://github.com/acheong08/EdgeGPT)
 - [新智元 | 颠覆历史！「ChatGPT搜索引擎」发布，微软市值一夜飙涨5450亿](https://mp.weixin.qq.com/s/03EDC_Vl8SAM52oJvkX5SA)
+- [独家丨拿到ChatGPT版Bing搜索的内测后，我觉得所有大厂都该慌了。](https://mp.weixin.qq.com/s/RUxpwL5Nf98GctgWdiLdVQ)
 ---
 
 </details> 
