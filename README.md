@@ -35,6 +35,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 ### GPT 通用资源
 
 - [ChatGPT 官方APP](https://chat.openai.com)
+  - [官方] ChatGPT Plus 已推出 `$20/month`
 - [OpenAI API文档](https://beta.openai.com/docs)
 - [ChatGPT 博客](https://openai.com/blog/chatgpt/)
 
