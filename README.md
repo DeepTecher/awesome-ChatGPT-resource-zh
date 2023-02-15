@@ -38,6 +38,8 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
   - [官方] ChatGPT Plus 已推出 `$20/month`
 - [OpenAI API文档](https://beta.openai.com/docs)
 - [ChatGPT 博客](https://openai.com/blog/chatgpt/)
+- 非官方实现
+  - **ColossalAI** [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ChatGPT) :+1::+1::+1::+1::+1: [博客介绍](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt)
 
 ### ChatGPT 社区 / 讨论
 - [OpenAI | Discord 频道](https://discord.com/invite/openai)
