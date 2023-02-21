@@ -150,6 +150,20 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 </details>
 
 
+**复旦 | [类ChatGPT](https://moss.fastnlp.top/)** `邀请公众内测; 实验室无法做出和 ChatGPT 能力相近的模型，MOSS 只是想在百亿规模参数上探索和验证 ChatGPT 的技术路线，并且实现各种对话能力。`
+
+<details>
+<summary>更多介绍</summary>
+
+<br>
+
+- 【报道】[复旦团队发布国内首个类ChatGPT模型MOSS，邀公众参与内测](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=584634)
+- 【报道】[复旦MOSS团队致歉：还不成熟，没想到引起这么大的关注](https://www.toutiao.com/article/7202413664077644322/?tt_from=weixin&utm_campaign=client_share&app=news_article&utm_source=weixin&iid=0&utm_medium=toutiao_ios&share_token=F48B4299-E9E1-4801-9582-1C69E12CD4DE&wxshare_count=2&source=m_redirect&wid=1676944293806)
+---
+
+</details> 
+
+
 ### 视频讲解
 - 【李宏毅】[ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.bilibili.com/video/BV1U84y167i3?p=1&vd_source=71b548de6de953e10b96b6547ada83f2)   
 - 【陈縕侬】[深度學習之應用 | ADL 17.3: OpenAI ChatGPT 驚驗眾人的對話互動式AI](https://www.bilibili.com/video/BV1U84y167i3?p=3&vd_source=71b548de6de953e10b96b6547ada83f2)  
