@@ -101,7 +101,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details> 
 
-**百度 | [文心一言 | ERNIE Bot](https://baike.baidu.com/item/%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80/62642976)** `暂未发布, [确定在3月16日发布](https://baijiahao.baidu.com/s?id=1759077896821259105&fromModule=lemma_middle-info)`
+**百度 | [文心一言 | ERNIE Bot](https://baike.baidu.com/item/%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80/62642976)** `暂未发布` [确定在3月16日发布](https://baijiahao.baidu.com/s?id=1759077896821259105&fromModule=lemma_middle-info)
 <details>
 <summary>更多介绍</summary>
 
@@ -162,7 +162,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 </details>
 
 
-**复旦 | [类ChatGPT](https://moss.fastnlp.top/)** `邀请公众内测; 实验室无法做出和 ChatGPT 能力相近的模型，MOSS 只是想在百亿规模参数上探索和验证 ChatGPT 的技术路线，并且实现各种对话能力。 拟[3月底开源](https://finance.sina.com.cn/jjxw/2023-02-26/doc-imyhzxxr5017027.shtml)`
+**复旦 | [类ChatGPT](https://moss.fastnlp.top/)** `邀请公众内测; 实验室无法做出和 ChatGPT 能力相近的模型，MOSS 只是想在百亿规模参数上探索和验证 ChatGPT 的技术路线，并且实现各种对话能力。` 拟[3月底开源](https://finance.sina.com.cn/jjxw/2023-02-26/doc-imyhzxxr5017027.shtml)
 
 <details>
 <summary>更多介绍</summary>
