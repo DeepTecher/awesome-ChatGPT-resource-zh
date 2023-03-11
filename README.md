@@ -90,12 +90,13 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 </details> 
 
 
-**百度 | [文心一言 | ERNIE Bot](https://baike.baidu.com/item/%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80/62642976)** `暂未发布, 计划3月份released`
+**百度 | [文心一言 | ERNIE Bot](https://baike.baidu.com/item/%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80/62642976)** `暂未发布, [确定在3月16日发布](https://baijiahao.baidu.com/s?id=1759077896821259105&fromModule=lemma_middle-info)`
 <details>
 <summary>更多介绍</summary>
 
 <br>
 
+- 【官方】[文心一言，3月16日见！](https://baijiahao.baidu.com/s?id=1759077896821259105&fromModule=lemma_middle-info)
 - 【官方】[官宣：文心一言](https://mp.weixin.qq.com/s/0-8X9FPouteKzNiK6DPaiA)
 - 【新闻时讯】[百度版ChatGPT文心一言3月完成内测对外开放..香港股价一度上涨13%，为三个月来最大涨幅](https://www.zaobao.com.sg/realtime/china/story20230207-1360557)
 ---
