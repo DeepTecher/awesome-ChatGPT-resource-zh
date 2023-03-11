@@ -89,6 +89,17 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details> 
 
+**微软 | [GPT4]** `GPT4 将在3月十几号发布, 支持多模态和视频`
+
+<details>
+<summary>更多介绍</summary>
+
+<br>
+
+- [量子位 | 微软：GPT-4下周发布，剑指多模态，可支持视频](https://mp.weixin.qq.com/s/tIBDwFD73CWpuBc9FTxEJQ)
+---
+
+</details> 
 
 **百度 | [文心一言 | ERNIE Bot](https://baike.baidu.com/item/%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80/62642976)** `暂未发布, [确定在3月16日发布](https://baijiahao.baidu.com/s?id=1759077896821259105&fromModule=lemma_middle-info)`
 <details>
@@ -151,17 +162,28 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 </details>
 
 
-**复旦 | [类ChatGPT](https://moss.fastnlp.top/)** `邀请公众内测; 实验室无法做出和 ChatGPT 能力相近的模型，MOSS 只是想在百亿规模参数上探索和验证 ChatGPT 的技术路线，并且实现各种对话能力。`
+**复旦 | [类ChatGPT](https://moss.fastnlp.top/)** `邀请公众内测; 实验室无法做出和 ChatGPT 能力相近的模型，MOSS 只是想在百亿规模参数上探索和验证 ChatGPT 的技术路线，并且实现各种对话能力。 拟[3月底开源](https://finance.sina.com.cn/jjxw/2023-02-26/doc-imyhzxxr5017027.shtml)`
 
 <details>
 <summary>更多介绍</summary>
 
 <br>
 
+- 【报道】[复旦教授邱锡鹏：MOSS大模型拟3月底开源](https://finance.sina.com.cn/jjxw/2023-02-26/doc-imyhzxxr5017027.shtml)
 - 【报道】[复旦团队发布国内首个类ChatGPT模型MOSS，邀公众参与内测](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=584634)
 - 【报道】[复旦MOSS团队致歉：还不成熟，没想到引起这么大的关注](https://www.toutiao.com/article/7202413664077644322/?tt_from=weixin&utm_campaign=client_share&app=news_article&utm_source=weixin&iid=0&utm_medium=toutiao_ios&share_token=F48B4299-E9E1-4801-9582-1C69E12CD4DE&wxshare_count=2&source=m_redirect&wid=1676944293806)
 - 【知乎相关提问】[复旦团队发布国内首个类 ChatGPT 模型 MOSS，将为国内大语言模型的探索和应用带来哪些影响?](https://www.zhihu.com/question/585248111)
 ---
+
+</details> 
+
+**哈工大 | [相关研究报告](./pdfs/230311-哈尔滨工业大学-ChatGPT调研报告.pdf)**
+
+<details>
+<summary>更多介绍</summary>
+<br>
+
+- 【报告】[230311-哈尔滨工业大学-ChatGPT调研报告.pdf](./pdfs/230311-哈尔滨工业大学-ChatGPT调研报告.pdf)
 
 </details> 
 
