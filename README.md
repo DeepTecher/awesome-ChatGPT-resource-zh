@@ -250,6 +250,10 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 ---
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=DeepTecher/awesome-ChatGPT-resource-zh&type=Timeline)](https://star-history.com/#DeepTecher/awesome-ChatGPT-resource-zh&Timeline)
+
 ### 参考
 
 * [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) 
