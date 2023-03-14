@@ -114,13 +114,13 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details> 
 
-**IDEA研究院| [封神榜|MindBot-Lite API](https://fengshenbang-lm.com/mindbot-lite)** `开放 API 测试` 对话指南参见[这里](https://mp.weixin.qq.com/s/Ihxegu_YW9jOkxW5ZAmauw)
+**IDEA-CCNL | [封神榜|MindBot-Lite API](https://fengshenbang-lm.com/mindbot-lite)** `开放 API 测试` 对话指南参见[这里](https://mp.weixin.qq.com/s/Ihxegu_YW9jOkxW5ZAmauw)
 <details>
 <summary>更多介绍</summary>
 
 <br>
 
-- [与MindBot-Lite唠嗑，你需要这份对话指南](https://mp.weixin.qq.com/s/Ihxegu_YW9jOkxW5ZAmauw)
+- 【官方】[与MindBot-Lite唠嗑，你需要这份对话指南](https://mp.weixin.qq.com/s/Ihxegu_YW9jOkxW5ZAmauw)
 ---
 
 </details>
@@ -147,6 +147,16 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details>
 
+**清华-THUDM | [[GitHub]ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)** `模型开源，内测邀请`  内测申请[这里](https://chatglm.cn/login), 博客介绍[这里](https://chatglm.cn/blog)
+<details>
+<summary>更多介绍</summary>
+
+<br>
+
+- 【官方】[ChatGLM：千亿基座的对话模型开启内测](https://chatglm.cn/blog)
+---
+
+</details>
 
 **清华 | [Cpm-Bee](https://live.openbmb.org/models/bee)**  `开放网页测试，非InstructGPT框架，暂未支持多轮对话能力，计划3月份released`
 
