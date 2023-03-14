@@ -114,6 +114,17 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details> 
 
+**IDEA研究院| [封神榜|MindBot-Lite API](https://fengshenbang-lm.com/mindbot-lite)** `开放 API 测试` 对话指南参见[这里](https://mp.weixin.qq.com/s/Ihxegu_YW9jOkxW5ZAmauw)
+<details>
+<summary>更多介绍</summary>
+
+<br>
+
+- [与MindBot-Lite唠嗑，你需要这份对话指南](https://mp.weixin.qq.com/s/Ihxegu_YW9jOkxW5ZAmauw)
+---
+
+</details>
+
 **阿里 | [阿里版ChatGPT]** `阿里内测，暂未发布, 暂未公布具体何时released`
 <details>
 <summary>更多介绍</summary>
