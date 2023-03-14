@@ -147,13 +147,15 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details>
 
-**清华-THUDM | [[GitHub]ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)** `模型开源，内测邀请`  内测申请[这里](https://chatglm.cn/login), 博客介绍[这里](https://chatglm.cn/blog)
+**清华-THUDM | [[GitHub]ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)** `单卡版推理模型开源，大模型内测启动, 效果还不错`  内测申请[这里](https://chatglm.cn/login), 博客介绍[这里](https://chatglm.cn/blog)
 <details>
 <summary>更多介绍</summary>
 
 <br>
 
 - 【官方】[ChatGLM：千亿基座的对话模型开启内测](https://chatglm.cn/blog)
+- [ChatGLM：千亿基座的对话模型启动内测，单卡版模型已全面开源](https://zhuanlan.zhihu.com/p/613862055)
+- 【知乎问题】[如何评价智谱 AI 发布的 ChatGLM，以及开源支持单卡推理的 ChatGLM-6B 模型？](https://www.zhihu.com/question/589484629/answer/2935869281)
 ---
 
 </details>
