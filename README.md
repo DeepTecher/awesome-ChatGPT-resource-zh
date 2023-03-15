@@ -101,6 +101,21 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details> 
 
+**斯坦福 | [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)**  `性能媲美GPT-3.5，成本不到600美元`
+
+<details>
+<summary>更多介绍</summary>
+
+<br>
+
+- 【官方】[官网](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+- 【官方】[模型链接](https://crfm.stanford.edu/alpaca)
+- 【官方】[GitHub 链接](https://github.com/tatsu-lab/stanford_alpaca)
+- 【报道】[LeCun狂赞：600刀GPT-3.5平替！ 斯坦福70亿参数「羊驼」爆火，LLaMA杀疯了](https://mp.weixin.qq.com/s/ybVYZumZhk_yM_w0U1wXww)
+---
+
+</details> 
+
 **百度 | [文心一言 | ERNIE Bot](https://baike.baidu.com/item/%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80/62642976)** `暂未发布` [确定在3月16日发布](https://baijiahao.baidu.com/s?id=1759077896821259105&fromModule=lemma_middle-info)
 <details>
 <summary>更多介绍</summary>
