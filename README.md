@@ -52,7 +52,9 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 - 【GPT-3论文】[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)  
 - 【InstructGPT论文】[Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)  
 - 【RHLF论文】[Augmenting Reinforcement Learning with Human Feedback](https://www.cs.utexas.edu/~ai-lab/pubs/ICML_IL11-knox.pdf)  
-- 【PPO算法论文】[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)  
+- 【PPO算法论文】[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347) 
+- 【InstructGPT 同期思想的论文】[Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2204.05862.pdf)
+- 【GPT-4 技术报告】[GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf) :fire:
 
 ### 提示样例 （更好地让ChatGPT 回答出）
 
