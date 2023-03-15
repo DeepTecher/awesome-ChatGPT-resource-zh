@@ -89,7 +89,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details> 
 
-**微软 | [GPT4]** `GPT4 将在3月十几号发布, 支持多模态和视频`
+**OpenAI | [GPT4](https://openai.com/research/gpt-4)** `多模态大模型，效果炸裂 Respect` :+1::+1::+1::+1::+1:
 
 <details>
 <summary>更多介绍</summary>
@@ -97,6 +97,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 <br>
 
 - [量子位 | 微软：GPT-4下周发布，剑指多模态，可支持视频](https://mp.weixin.qq.com/s/tIBDwFD73CWpuBc9FTxEJQ)
+- [机器之心 | GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？](https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw)
 ---
 
 </details> 
