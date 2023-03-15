@@ -98,6 +98,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 - [量子位 | 微软：GPT-4下周发布，剑指多模态，可支持视频](https://mp.weixin.qq.com/s/tIBDwFD73CWpuBc9FTxEJQ)
 - [机器之心 | GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？](https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw)
+- 【视频】【开发者演示】[【完整版】【双语字幕】3月15日GPT-4开发者演示直播24分钟完整版（GPT-4 Developer Livestream）](https://www.bilibili.com/video/BV1Qo4y1B7hJ/?spm_id_from=333.999.0.0)
 ---
 
 </details> 
@@ -242,6 +243,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 - 【陈縕侬】[深度學習之應用 | ADL 17.3: OpenAI ChatGPT 驚驗眾人的對話互動式AI](https://www.bilibili.com/video/BV1U84y167i3?p=3&vd_source=71b548de6de953e10b96b6547ada83f2)  
 - 【李沐】[InstructGPT 论文精读【论文精读·48】](https://www.bilibili.com/video/BV1hd4y187CR/?spm_id_from=333.788&vd_source=71b548de6de953e10b96b6547ada83f2)
 - 【李沐】[Anthropic LLM 论文精读【论文精读·51】](https://www.bilibili.com/video/BV1XY411B7nM/?spm_id_from=333.999.0.0)
+-  【GPT-4 官方演示视频】[3月15日GPT-4开发者演示直播24分钟完整版（GPT-4 Developer Livestream）](https://www.bilibili.com/video/BV1Qo4y1B7hJ/?spm_id_from=333.999.0.0)
 
 ### API 工具
 
