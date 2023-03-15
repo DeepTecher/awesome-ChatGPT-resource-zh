@@ -210,6 +210,15 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details> 
 
+**| [海豚AI写作助手](http://zhimachat.com/)** `国内首个可供体验的类ChatGPT模型`
+
+<details>
+<summary>更多介绍</summary>
+<br>
+
+- 【官方】[体验链接](http://zhimachat.com/)
+
+</details> 
 
 ### 视频讲解
 - 【李宏毅】[ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.bilibili.com/video/BV1U84y167i3?p=1&vd_source=71b548de6de953e10b96b6547ada83f2)   
