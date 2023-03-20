@@ -121,7 +121,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details> 
 
-**百度 | [文心一言 | ERNIE Bot](https://baike.baidu.com/item/%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80/62642976)** `暂未发布` [确定在3月16日发布](https://baijiahao.baidu.com/s?id=1759077896821259105&fromModule=lemma_middle-info)
+**百度 | [文心一言 | ERNIE Bot](https://baike.baidu.com/item/%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80/62642976)** `已发布` 当前文心一言支持 `文学创作、商业文案创作、数理逻辑推理推算、中文理解、多模态生成`， 当前开放内测两种方式： 个人测试申请点[这里](https://yiyan.baidu.com/welcome), 企业测试点[这里]https://cloud.baidu.com/survey_summit/wenxin.html?track=C896034() 
 <details>
 <summary>更多介绍</summary>
 
