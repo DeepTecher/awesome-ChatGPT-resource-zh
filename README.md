@@ -63,13 +63,15 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 
 ### 其他厂商推出 or 计划竞品
-**谷歌 | [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)**  :broken_heart:
+**谷歌 | [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)**  :broken_heart: `2023.03.22 已重新开放，当前只支持美区和英区排队内测。当前只支持英文且不支持编码能力` [Bard 内测申请](https://bard.google.com/)
 
 <details>
 <summary>更多介绍</summary>
 
 <br>
 
+- [机器之心 | 谷歌版ChatGPT Bard开放测试！我们已经体验上了](https://mp.weixin.qq.com/s/mbxMDuPaQLt5uXGh9kDtiQ)
+- [量子位 | 谷歌版ChatGPT这次低调公测炸了！比GPT-4数学能力还强，体验名额发得很快，传送门在此](https://mp.weixin.qq.com/s/elgZMjqlSCT5S90I0nzKmg)
 - [量子位 | 谷歌版ChatGPT灾难级发布，市值一夜狂跌7000亿，熬夜网友：退钱！](https://mp.weixin.qq.com/s/ErBVGG-HcdV1i6mIVPlwyg)
 ---
 
