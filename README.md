@@ -66,7 +66,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 > 近日，`ChatGPT`或者说是整个AI范式发生了变化，大佬们也开始着手在新的范式玩法上发力。我们期待着他们能够给我们带来更多成果。
 - 贾扬清  [报道链接](https://mp.weixin.qq.com/s/ErbtO1f4Tidd5n9-cWAtMg)
 - 李沐 [创业公司 | Boson.ai](https://boson.ai/)
-- 李开复 [筹办新公司，全球招英才](https://mp.weixin.qq.com/s/OVg6rbWEdq_JVEyboYdQpg)
+- 李开复 [Project AI 2.0](https://www.chuangxin.com/ai2) 相关报道：[筹办新公司，全球招英才](https://mp.weixin.qq.com/s/OVg6rbWEdq_JVEyboYdQpg)
 - 杨红霞 [阿里达摩院 -> 字节 AI Lab](https://zhuanlan.zhihu.com/p/616112186)
 
 ### 其他厂商推出 or 计划竞品
