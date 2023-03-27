@@ -131,6 +131,20 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details> 
 
+**Databricks | [Dolly](https://github.com/databrickslabs/dolly)**  `性能媲美GPT-3.5，60亿参数, 人工智能技术民主化道路上打响的第一弹。需要注意的是基础模型和数据集遵从协议` 😃
+
+<details>
+<summary>更多介绍</summary>
+
+<br>
+
+- 【官方】[官网](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)
+- 【官方】[GitHub 链接](https://github.com/databrickslabs/dolly)
+- 【报道】[0门槛克隆ChatGPT！30分钟训完，60亿参数性能堪比GPT-3.5](https://mp.weixin.qq.com/s/RMrXIHGOy3cPu8ybQNWonA)
+---
+
+</details> 
+
 **百度 | [文心一言 | ERNIE Bot](https://baike.baidu.com/item/%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80/62642976)** `已发布` 当前文心一言支持 `文学创作、商业文案创作、数理逻辑推理推算、中文理解、多模态生成`， 当前开放内测两种方式： 个人测试申请点[这里](https://yiyan.baidu.com/welcome), 企业测试点[这里](https://cloud.baidu.com/survey_summit/wenxin.html?track=C896034) 
 <details>
 <summary>更多介绍</summary>
