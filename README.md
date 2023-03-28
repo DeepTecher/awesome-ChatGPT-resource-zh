@@ -265,12 +265,21 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 </details> 
 
 ### 视频讲解
-- 【李宏毅】[ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.bilibili.com/video/BV1U84y167i3?p=1&vd_source=71b548de6de953e10b96b6547ada83f2)   
-- 【李宏毅】[李宏毅2023春机器学习课程: p2-p6 介绍相关 ChatGPT](https://www.bilibili.com/video/BV1TD4y137mP?p=2)
+- 【李宏毅】[B站 ChatGPT讲解合集](https://www.bilibili.com/video/BV1yL411D72E/?share_source=copy_web&vd_source=ca4121edeb864fc9d85abd1506c1dfeb)。包含：
+    - [B站链接直达](https://www.bilibili.com/video/BV1yL411D72E/?share_source=copy_web&vd_source=ca4121edeb864fc9d85abd1506c1dfeb&t=0) ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程     
+    - [B站链接直达](https://www.bilibili.com/video/BV1yL411D72E/?share_source=copy_web&vd_source=ca4121edeb864fc9d85abd1506c1dfeb&t=1077)李宏毅2023春机器学习课程: 【生成式AI】ChatGPT原理剖析（1/3）对Chat GPT的常见误解
+    - [B站链接直达](https://www.bilibili.com/video/BV1yL411D72E/?share_source=copy_web&vd_source=ca4121edeb864fc9d85abd1506c1dfeb&t=2282) 李宏毅2023春机器学习课程: 【生成式AI】ChatGPT原理剖析（2/3）预训练（Pre-Train）
+    - [B站链接直达](https://www.bilibili.com/video/BV1yL411D72E/?share_source=copy_web&vd_source=ca4121edeb864fc9d85abd1506c1dfeb&t=3873) 李宏毅2023春机器学习课程: 【生成式AI】ChatGPT原理剖析（3/3）ChatGPT所带来的研究问题
+
+- 【陈縕侬】[B站 ChatGPT讲解合集](https://www.bilibili.com/video/BV1gs4y1H7nC/?spm_id_from=333.788.recommend_more_video.-1&vd_source=71b548de6de953e10b96b6547ada83f2)
+  - [B站链接直达](https://www.bilibili.com/video/BV1gs4y1H7nC/?share_source=copy_web&vd_source=ca4121edeb864fc9d85abd1506c1dfeb&t=0) (1) InstructGPT(2022)
+  - [B站链接直达](https://www.bilibili.com/video/BV1gs4y1H7nC/?share_source=copy_web&vd_source=ca4121edeb864fc9d85abd1506c1dfeb&t=1514) (2) ChatGPT(2022)
+
+- 【李沐】
+  - [B站链接直达](https://www.bilibili.com/video/BV1hd4y187CR/?spm_id_from=333.788&vd_source=71b548de6de953e10b96b6547ada83f2) InstructGPT 论文精读【论文精读·48】
+  - [B站链接直达](https://www.bilibili.com/video/BV1XY411B7nM/?spm_id_from=333.999.0.0) Anthropic LLM 论文精读【论文精读·51】
+
 - 【李宏毅】[【生成式AI】【李宏毅】GPT-4 來了! GPT-4 這次有什麼神奇的能力呢？](https://www.bilibili.com/video/BV1SL411R7r1/?spm_id_from=333.337.search-card.all.click&vd_source=71b548de6de953e10b96b6547ada83f2)
-- 【陈縕侬】[深度學習之應用 | ADL 17.3: OpenAI ChatGPT 驚驗眾人的對話互動式AI](https://www.bilibili.com/video/BV1U84y167i3?p=3&vd_source=71b548de6de953e10b96b6547ada83f2)  
-- 【李沐】[InstructGPT 论文精读【论文精读·48】](https://www.bilibili.com/video/BV1hd4y187CR/?spm_id_from=333.788&vd_source=71b548de6de953e10b96b6547ada83f2)
-- 【李沐】[Anthropic LLM 论文精读【论文精读·51】](https://www.bilibili.com/video/BV1XY411B7nM/?spm_id_from=333.999.0.0)
 -  【GPT-4 官方演示视频】[3月15日GPT-4开发者演示直播24分钟完整版（GPT-4 Developer Livestream）](https://www.bilibili.com/video/BV1Qo4y1B7hJ/?spm_id_from=333.999.0.0)
 
 ### API 工具
