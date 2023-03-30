@@ -264,6 +264,16 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details> 
 
+**360 | [360版ChatGPT 雏形产品]** `并非真正意义上的产品发布，只是向观众演示目前的产品雏形，股票上涨7%左右`
+
+<details>
+<summary>更多介绍</summary>
+<br>
+
+- 【报道】[周鸿祎演示自研类ChatGPT模型 现场回答观众多个问题](https://baijiahao.baidu.com/s?id=1761700815878234195&wfr=spider&for=pc)
+
+</details> 
+
 ### 视频讲解
 - 【李宏毅】[B站 ChatGPT讲解合集](https://www.bilibili.com/video/BV1yL411D72E/?share_source=copy_web&vd_source=ca4121edeb864fc9d85abd1506c1dfeb)。包含：
     - [B站链接直达](https://www.bilibili.com/video/BV1yL411D72E/?share_source=copy_web&vd_source=ca4121edeb864fc9d85abd1506c1dfeb&t=0) ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程     
