@@ -65,10 +65,11 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 ### 大佬与大模型
 > 近日，`ChatGPT`或者说是整个AI范式发生了变化，大佬们也开始着手在新的范式玩法上发力。我们期待着他们能够给我们带来更多成果。
-- 贾扬清  [报道链接](https://mp.weixin.qq.com/s/ErbtO1f4Tidd5n9-cWAtMg)
+- 贾扬清  [阿里离职报道链接](https://mp.weixin.qq.com/s/ErbtO1f4Tidd5n9-cWAtMg)
 - 李沐 [创业公司 | Boson.ai](https://boson.ai/)
 - 李开复 [Project AI 2.0](https://www.chuangxin.com/ai2) 相关报道：[筹办新公司，全球招英才](https://mp.weixin.qq.com/s/OVg6rbWEdq_JVEyboYdQpg)
 - 杨红霞 [阿里达摩院 -> 字节 AI Lab](https://zhuanlan.zhihu.com/p/616112186)
+- 王慧文 [收购国产AI框架OneFlow, 基建中国版ChatGPT](https://mp.weixin.qq.com/s/KESP2TAHhTkM5z1IhfoyvQ)
 
 ### 其他厂商推出 or 计划竞品
 **谷歌 | [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)**  :broken_heart: `2023.03.22 已重新开放，当前只支持美区和英区排队内测。当前只支持英文且不支持编码能力` [Bard 内测申请](https://bard.google.com/)
