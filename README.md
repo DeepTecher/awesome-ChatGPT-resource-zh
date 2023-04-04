@@ -72,7 +72,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 - 王慧文 [收购国产AI框架OneFlow, 基建中国版ChatGPT](https://mp.weixin.qq.com/s/KESP2TAHhTkM5z1IhfoyvQ)
 
 ### 其他厂商推出 or 计划竞品
-**谷歌 | [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)**  :broken_heart: `2023.03.22 已重新开放，当前只支持美区和英区排队内测。当前只支持英文且不支持编码能力` [Bard 内测申请](https://bard.google.com/)
+**谷歌 | [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)**  :broken_heart: `2023.03.22 已重新开放，当前只支持美区和英区排队内测。当前只支持英文且不支持编码能力` [Bard 内测申请](https://bard.google.com/) `已可以访问。相比之前体验起来效果还是不错了`
 
 <details>
 <summary>更多介绍</summary>
