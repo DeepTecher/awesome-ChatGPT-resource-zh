@@ -170,13 +170,14 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details>
 
-**阿里 | [阿里版ChatGPT]** `阿里内测，暂未发布, 暂未公布具体何时released`
+**阿里 | [阿里版ChatGPT]** `已启动邀请内测` 2023.04.07 [开启邀测](https://mp.weixin.qq.com/s/olGY9Cm6hO1h8C9DSy7_qA)
 <details>
 <summary>更多介绍</summary>
 
 <br>
 
 - [阿里版ChatGPT已进入测试！中文聊天截图曝光，达摩院出品](https://mp.weixin.qq.com/s/xQmX9EnrKLAUxsEoCZXJVg)
+- [阿里版ChatGPT突然上线邀测！大模型热战正剧开始，这是第一手体验实录](https://mp.weixin.qq.com/s/olGY9Cm6hO1h8C9DSy7_qA)
 ---
 
 </details>
