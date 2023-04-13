@@ -192,6 +192,17 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details>
 
+**商汤 | [商量SenseChat](https://chat.sensetime.com/wb/#/)** `支持中英文、支持多种编程语言代码编写&调试`
+<details>
+<summary>更多介绍</summary>
+
+<br>
+
+- 【报道】[商汤ChatGPT「商量」炸场！秒生6K神图，代码提速62%，现场直播怼脸](https://mp.weixin.qq.com/s/8AbAz4mKys5jKK-FvWuOxQ)
+---
+
+</details>
+
 **腾讯 | [XXXX]** `类chatGPT相关方向已有布局，研究有序推进` 
 <details>
 <summary>更多介绍</summary>
