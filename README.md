@@ -15,6 +15,13 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 ![ChatGPT img](./imgs/ChatGPT_Diagram.svg)
 
+
+【盘点】当前AI大模型发力的厂商&机构图片汇总，更多内容参见后文 [其他厂商推出 or 计划竞品](#其他厂商推出-or-计划竞品)
+
+|国内AI大模型盘点|
+| --- |
+|<img src="imgs/BigModel_in_China.jpg" width="360"/> |
+
 ### 目录
 
 - [GPT 通用资源](#gpt-通用资源)
@@ -73,6 +80,8 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 - 王小川 [搜狗前CEO王小川官宣大模型创业](https://mp.weixin.qq.com/s/3it0yuEf5yU6YifInWfvqQ)
 
 ### 其他厂商推出 or 计划竞品
+> `ChatGPT`的爆火也使得各个厂商“加紧”推出自身竞争力的大模型能力，期望可以在后AI时代占据一定的市场。下面看看当前都有哪些厂商推出来了趴~
+
 **谷歌 | [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)**  :broken_heart: `2023.03.22 已重新开放，当前只支持美区和英区排队内测。当前只支持英文且不支持编码能力` [Bard 内测申请](https://bard.google.com/) `已可以访问。相比之前体验起来效果还是不错了`
 
 <details>
