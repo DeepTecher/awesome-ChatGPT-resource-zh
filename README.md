@@ -358,6 +358,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 - [DeepWrite AI：博客发布生成器](https://github.com/simplysabir/AI-Writing-Assistant)
 - [修复代码错误并解释错误](https://github.com/shobrook/adrenaline/)
 - [将chatGPT prompt 作用 stable diffusion](https://github.com/hallatore/stable-diffusion-webui-chatgpt-utilities)
+- [No Stairs Please MCP: 通过 MCP 检索全美 26,000+ 现场音乐场地与巡演路线](https://nostairsplease.com/mcp)
 
 ### 命令行工具 
 - [chatgpt-conversation: 用声音与 ChatGPT 对话，并让其回应](https://github.com/platelminto/chatgpt-conversation)
