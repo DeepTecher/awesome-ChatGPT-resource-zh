@@ -354,6 +354,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 - [shareGPT - 一键分享你与ChatGPT对话记录](https://github.com/domeccleston/sharegpt)
 
 ### 应用
+- [HumanPen](https://humanpen.net/) - 学术与科研文档处理 SaaS：支持文档级润色降 AI 率（DOCX/PPTX/TXT）、12 种语言文档翻译（PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT）、DOCX 精简、12 种引文格式校正与科研项目交付（注册赠送 100 积分，按积分商业计费，不提供检测保证或代写）。
 - [ChatARKit: 使用 ChatGPT 的 自然语言生成能力创建 AR 体验](https://github.com/trzy/ChatARKit)
 - [DeepWrite AI：博客发布生成器](https://github.com/simplysabir/AI-Writing-Assistant)
 - [修复代码错误并解释错误](https://github.com/shobrook/adrenaline/)
